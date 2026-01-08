@@ -224,6 +224,18 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Output
+<img width="1917" height="906" alt="Screenshot 2026-01-08 192000" src="https://github.com/user-attachments/assets/26dd3c37-bf8c-4f4c-b204-49f7fbe44f11" />
+
+<img width="1916" height="873" alt="Screenshot 2026-01-08 194008" src="https://github.com/user-attachments/assets/91713e55-6ae2-4924-b409-9ff92dcb562d" />
+
+<img width="1918" height="900" alt="Screenshot 2026-01-08 194100" src="https://github.com/user-attachments/assets/bfa240ff-ff30-4cbd-be56-690d33d6c99e" />
+
+<img width="1622" height="859" alt="Screenshot 2026-01-08 194118" src="https://github.com/user-attachments/assets/99b11a6f-93c8-475f-bb2a-222477a21ef4" />
+
+
+
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -261,4 +273,5 @@ This tool is for creative and educational purposes. Users are responsible for:
 ---
 
 **Made with ❤️ using Python, Streamlit, and Stable Diffusion**
+
 
